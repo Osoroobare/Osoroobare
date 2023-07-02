@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @Osoroobare
-- 👀 I’m interested in in backend development.
+- 👀 I’m interested in in front end
+  development.
 - 🌱 I’m currently learning Software engineering PROGRAMME at ALX
 - 💞️ I’m looking for internships to help solidify my skills and experience 
 - 📫 Reach me through email brianosoro40@gmail.com 
