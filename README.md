@@ -26,7 +26,6 @@ I am currently enrolled in a Software Engineering Program at Alx Africa and I ha
 ---
 
 ### Socials
-[<img src="https://img.shields.io/badge/Github-0A66C2.svg?&style=plastic&logo=Github&logoColor=white"/>](https://www.github.com/in/Osoroobare)
 [<img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?&style=plastic&logo=twitter&logoColor=white"/>](https://twitter.com/Osoro001)
 [<img src="https://img.shields.io/badge/Linkedin-0A66C2.svg?&style=plastic&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/Osoroobare)
 
