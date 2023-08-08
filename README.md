@@ -5,7 +5,7 @@ I am currently enrolled in a Software Engineering Program at Alx Africa and I ha
 
 * 🌍  I'm based in Kisii and Narok, Kenya
 * ✉️  You can contact me at [brianosoro40@gmail.com](mailto:brianosoro40@gmail.com)
-* 🤝  I'm open to collaborating on Open source and interesting projects that will refine my skillsets as well as internships to further my experience.
+* 🤝  I'm open to collaborations on projects that will refine my skillsets as well as internships to further my experience.
 
 ---
   
@@ -36,3 +36,5 @@ I am currently enrolled in a Software Engineering Program at Alx Africa and I ha
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/Osoroobare"><img src="https://github-readme-stats.vercel.app/api?username=Osoroobare&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Osoroobare GitHub stats" /></a>
+
+---
