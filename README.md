@@ -1,10 +1,10 @@
-Hello 👋 My name is Isubire Nelvine Kavaya
+Hello 👋 My name is Brian Obare Osoro
 ======================================
 
 I am currently enrolled in a Software Engineering Program at Alx Africa and I have specialized in Fronted Development.
 
-* 🌍  I'm based in Kitale, Eldoret and Narok, Kenya
-* ✉️  You can contact me at [mwikalinelvine@gmail.com](mailto:mwikalinelvine@gmail.com)
+* 🌍  I'm based in Kisii and Narok, Kenya
+* ✉️  You can contact me at [brianosoro40@gmail.com](mailto:brianosoro40@gmail.com)
 * 🤝  I'm open to collaborations on projects that will refine my skillsets as well as internships to further my experience.
 
 ---
@@ -26,8 +26,8 @@ I am currently enrolled in a Software Engineering Program at Alx Africa and I ha
 ---
 
 ### Socials
-[<img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?&style=plastic&logo=twitter&logoColor=white"/>](https://twitter.com/Mwikali001)
-[<img src="https://img.shields.io/badge/Linkedin-0A66C2.svg?&style=plastic&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/Mwikalinelvine)
+[<img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?&style=plastic&logo=twitter&logoColor=white"/>](https://twitter.com/Osoro001)
+[<img src="https://img.shields.io/badge/Linkedin-0A66C2.svg?&style=plastic&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/Osoroobare)
 
 ---
 
@@ -35,6 +35,6 @@ I am currently enrolled in a Software Engineering Program at Alx Africa and I ha
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/Mwikalinelvine"><img src="https://github-readme-stats.vercel.app/api?username=Mwikalinelvine&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Mwikalinelvine GitHub stats" /></a>
+<a href="http://www.github.com/Osoroobare"><img src="https://github-readme-stats.vercel.app/api?username=Osoroobare&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Osoroobare GitHub stats" /></a>
 
 ---
