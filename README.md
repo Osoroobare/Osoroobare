@@ -1,9 +1,9 @@
 Hello 👋 My name is Brian Obare Osoro
 ======================================
 
-I am currently enrolled in a Software Engineering Program at Alx Africa and I have specialized in Fronted Development.
+I have completed a Software Engineering Program at Alx Africa and I have specialized in Fronted Development.
 
-* 🌍  I'm based in Kisii and Narok, Kenya
+* 🌍  I'm based in Nairobi, Kenya
 * ✉️  You can contact me at [brianosoro40@gmail.com](mailto:brianosoro40@gmail.com)
 * 🤝  I'm open to collaborations on projects that will refine my skillsets as well as internships to further my experience.
 
